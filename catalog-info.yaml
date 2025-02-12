@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: impossible-quiz
+  annotations:
+    github.com/project-slug: dzemanov/impossible-quiz
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/dzemanov
